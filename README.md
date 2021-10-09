@@ -1,6 +1,23 @@
-# DFplugins
+# DarkForest
 
 https://github.com/darkforest-eth/plugins
+
+### Blog
+https://blog.zkga.me/
+
+### valhalla
+https://valhalla.zkga.me/#/
+
+### opensea
+https://opensea.io/collection/darkforest-valhalla
+
+### Artificats withdraw rules
+
+> Common: Level 2+ Spacetime Rip
+> Rare: Level 3+ Spacetime Rip
+> Epic: Level 4+ Spacetime Rip
+> Legendary: Level 5+ Spacetime Rip
+> Mythic: Level 6+ Spacetime Rip
 
 
 ### https://github.com/rootial/client/tree/master/plugins
