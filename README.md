@@ -18,3 +18,8 @@ Prospect-Find ：https://github.com/rootial/client/blob/master/plugins/Prospect-
 修复版：https://github.com/snowtigersoft/plugins/blob/master/content/artifacts/artifactory/plugin.js
 
 自动化get神器：https://github.com/snowtigersoft/plugins/tree/master/content/artifacts
+
+### df-Dashboards
+https://bulmenisaurus.github.io/df-stats/?player=0xe8d3dd97cd3a33b7b8f94e3195e98d3912ac50e9&round=3
+
+https://dune.xyz/mirror/DF-Artifacts-holdings
